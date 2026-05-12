@@ -7,7 +7,8 @@
 This is a comprehensive master's degree thesis project implementing an intelligent quality control system for industrial manufacturing. The system integrates deep learning (Convolutional Neural Networks) with PLC (Programmable Logic Controller) communication for real-time defect detection in casting production.
 
 **Key Innovation:** Dual-channel production line monitoring with visual explanations (Grad-CAM) showing exactly where defects are detected.
-
+### Imprtant Note
+- **Tested on simulation** Tested on Windows 11 Tia Portal V16 with PLCSIM V16 via NetToPLCim. 
 ---
 
 ## Core Features
